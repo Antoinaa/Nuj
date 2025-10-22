@@ -75,12 +75,11 @@ for(let j=0;j<5;j++)
 
 
 
-
 const string="na";
 const string1="ayaye";
 
-const x=5;
-console.log (string+' '+string1+x);
+const k=5;
+console.log (string+' '+string1+k);
 
 
 const salut ="buna";
